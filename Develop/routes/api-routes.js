@@ -1,0 +1,1 @@
+const data = require("../db/db.json");
