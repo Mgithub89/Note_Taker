@@ -1,10 +1,12 @@
 # Note_Taker
 ![License](https://img.shields.io/badge/License-MIT-green.svg "License Badge")
  
-Explore the [project-page](https://github.com/Mgithub89/Note_Taker.git)
+* Explore the [project-page](https://github.com/Mgithub89/Note_Taker.git)
+
+* View the [Deployed App](https://note-taker04.herokuapp.com/notes)
 
 ## Description
-  
+  A Note Taker application that can be used to write, save and delete notes and help a user to organize thoughts and keep track of tasks that need to complete. The App uses express and JSON file on the backend and allows user to store and retrieve notes. 
 
 ## Table Of Contents 
 * [Installation](#Installation)
@@ -19,13 +21,11 @@ Explore the [project-page](https://github.com/Mgithub89/Note_Taker.git)
 * fork the repo and install all the dependencies(npm i).
 
 ## usage
-
-* [A walkthrough video](https://drive.google.com/file/d/1SF7YSCp4t1G-cmr-s0Y0SBdeYXNNuvbF/view) 
-
-* snap shot
-
-
-
+* Click on the Deployed App link above( link to the url provided by Heroku).
+* To save your note - write title and text of your note and click the save icon(save icon will pop up once you start writing your note text).
+* To retrive your saved note - click the title of your note.
+* To delete your saved note - click delete icon.
+* To write a new note - click the pen icon.
 
 ## Technologies used
 * inquirer
@@ -34,10 +34,10 @@ Explore the [project-page](https://github.com/Mgithub89/Note_Taker.git)
 * node
 
 ## Contributing
-* Feel free to contribute. just contact me via email and fork my project
+* Feel free to contribute. contact me via email and fork my project
 
 ## Tests
-* npm run test
+* none
 
 ## License 
  ![License](https://img.shields.io/badge/License-MIT-green.svg "License Badge")
