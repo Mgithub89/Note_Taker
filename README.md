@@ -26,6 +26,7 @@
 * To retrive your saved note - click the title of your note.
 * To delete your saved note - click delete icon.
 * To write a new note - click the pen icon.
+![](name-of-giphy.gif)
 
 ## Technologies used
 * inquirer
