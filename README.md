@@ -29,7 +29,7 @@
 ![](note-taker.gif)
 
 ## Technologies used
-* inquirer
+* Express
 * fs(filesystem)
 * uuid(unique id generator)
 * node
